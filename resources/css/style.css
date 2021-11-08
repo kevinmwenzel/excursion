@@ -26,3 +26,9 @@ h2 {
     color: aquamarine;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.3125rem;
+    color: gray;
+}
