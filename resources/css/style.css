@@ -36,3 +36,10 @@ p {
 #platforms {
     margin-top: 25px;
 }
+
+#copyright {
+    text-align: right;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.3125rem;
+}
