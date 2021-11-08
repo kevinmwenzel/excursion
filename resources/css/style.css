@@ -17,4 +17,5 @@ h1 {
 .download a {
     font-size: 1rem;
     color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
